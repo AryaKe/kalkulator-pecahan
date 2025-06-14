@@ -4,7 +4,7 @@
 
 ### Langkah 1: Clone Repository
 ```bash
-git clone https://github.com/username/repo-kalkulator-pecahan.git
+git clone https://github.com/AryaKe/kalkulator-pecahan.git
 ```
 
 ### Langkah 2: Buka Folder Proyek
