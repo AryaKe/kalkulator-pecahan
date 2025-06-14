@@ -1,0 +1,27 @@
+body {
+    background-color: #f7fafc;
+    min-height: 100vh;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.fraction {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    margin: 0 0.2em;
+}
+
+.fraction span {
+    display: block;
+    padding: 0 0.2em;
+}
+
+.fraction span.denominator {
+    border-top: 1px solid #000;
+}
+
+.operation-step {
+    margin-bottom: 0.5em;
+    line-height: 1.6;
+}
